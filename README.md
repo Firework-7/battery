@@ -1,1 +1,2 @@
-#battery
+#Battery
+#等待更新...
